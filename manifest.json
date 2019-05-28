@@ -1,0 +1,11 @@
+{
+  "name": "YT Tidy",
+  "version": "1.0",
+  "description": "A chrome extension that enhances youtube's playlist functionality and ease of use.",
+  "permissions": ["declarativeContent", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
