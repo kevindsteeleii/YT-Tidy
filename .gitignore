@@ -61,3 +61,4 @@ typings/
 .next
 
 #manifest file, it contains key/client-id/etc
+manifest.json
