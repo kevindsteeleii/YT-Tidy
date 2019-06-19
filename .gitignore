@@ -62,3 +62,6 @@ typings/
 
 #manifest file, it contains key/client-id/etc
 manifest.json
+
+#VS code settings
+.vscode/
