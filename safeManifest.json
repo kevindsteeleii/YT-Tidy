@@ -1,11 +1,6 @@
 {
   "name": "YT Playlister",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn1Xwk4gnF2kFlJEfn/1YSfvliZ+r6i3AOZIDTz2j4QUyVjBwpDTFLEEmPuhGDzTZOd9L8jLH9JDADxsx3VzskemkU9tsAg9Cf3vsL4FcAKF4PMsTiMHTvdf04BAkj8/9BCImLu5Py4hR0/l8+QwMMfJE29ECHdup5OI22ktEQF5wnmdutM4rIlcDISvXCEmVKsFCxbds2MYxuxbmuDjtZkRBGnGz+5lxljNtowzbvMdqW+QPwDA1yn5DbF7L6zv/zPkmkaXeyV+ZXOML46cmWXw15ELQAzrJqm0FH8Ur/H3I488G/XsFgc+LGah+WJ2QgMROxgfgGpd7QTWe9eRKjwIDAQAB",
   "version": "1.0",
-  "oauth2": {
-    "client_id": "211520787095-09gpvpklckug9q90hvunecusk6l4j99u.apps.googleusercontent.com",
-    "scopes": [""]
-  },
   "description": "An extension to predominantly change and improve Youtube's Playlist functionality",
   "permissions": ["storage", "declarativeContent", "identity" ],
   "background": {
